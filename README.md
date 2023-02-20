@@ -1,6 +1,6 @@
-# Timetabled Exemplar Project
+# Timetable Project
 
-Timetabled is a grid-style calendar with one-hour events that plans out a single week, built with React, Vite, HTML, JavaScript, and CSS. 
+Timetable is a grid-style calendar with one-hour events that plans out a single week, built with React, Vite, HTML, JavaScript, and CSS. 
 
 
 
@@ -75,7 +75,4 @@ Upload the generated `dist` file to Netlify at:
 https://app.netlify.com/drop
 ```
 
-<br/>
 
----
-*Last Updated: December 2022*
