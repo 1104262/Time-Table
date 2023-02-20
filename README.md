@@ -67,12 +67,5 @@ To deploy this application on Netlify, run the following in the repo directory:
 npm install
 npm run build
 
-```
-
-Upload the generated `dist` file to Netlify at:
-
-```html
-https://app.netlify.com/drop
-```
 
 
