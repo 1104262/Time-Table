@@ -2,11 +2,11 @@
 
 Timetabled is a grid-style calendar with one-hour events that plans out a single week, built with React, Vite, HTML, JavaScript, and CSS. 
 
-:link: [Preview App Here](https://bucolic-cobbler-d5aca6.netlify.app)
+
 
 ## Project Screenshot
 
-Screen Shot 2023-02-20 at 12.17.14 AM.png
+![screenshot of completed project](timetable_screenshot.PNG)
 
 ## Setup
 
