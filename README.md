@@ -6,7 +6,7 @@ Timetabled is a grid-style calendar with one-hour events that plans out a single
 
 ## Project Screenshot
 
-
+Screen Shot 2023-02-20 at 12.17.14 AM.png
 
 ## Setup
 
