@@ -6,7 +6,7 @@ Timetable is a grid-style calendar with one-hour events that plans out a single 
 
 ## Project Screenshot
 
-![screenshot of completed project](readme_Website Preview.png)
+![screenshot of completed project](readme_WebsitePreview.png)
 
 ## Setup
 
